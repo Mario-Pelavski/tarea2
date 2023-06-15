@@ -153,6 +153,7 @@ const carrito = new Carrito();
 carrito.agregarProducto("KS944RUR", 2);
 carrito.agregarProducto("KS944RUR", 2);
 carrito.agregarProducto("WE328NJ", 3);
+carrito.agregarProducto("UI999TY",4)
 carrito.agregarProducto("xxxxxx", 1);
 carrito.eliminarProducto("KS944RUR", 1);
 carrito.eliminarProducto("WE328NJ", 3);
